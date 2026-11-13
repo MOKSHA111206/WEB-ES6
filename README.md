@@ -37,6 +37,7 @@ To develop a JavaScript application using ES6 features and the Promise concept t
 
 ## Testing Failure
 Change `const success = true;` to `const success = false;` in `index.html` to test the rejection path.
-
+## WEBSITE LINK
+ https://moksha111206.github.io/WEB-ES6/
 ## Result
 Thus, a JavaScript application was implemented successfully using ES6 standards and the Promise concept to simulate asynchronous execution, handle success and failure, and display the result.
